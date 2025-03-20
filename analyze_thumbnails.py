@@ -279,6 +279,6 @@ if __name__ == "__main__":
 
     batch_analyze_thumbnails(
         video_ids,
-        output_csv="youtube_thumbnail_analysis_extended.csv"
+        output_csv="results/youtube_thumbnail_analysis_extended.csv"
     )
     print("Done.")
