@@ -1,0 +1,21 @@
+video_id,thumbnail_url,color_palette_hex,detected_text,objects,people_count,faces,brand_logos,layout,text_style,cta_detected,scene_classification,color_scheme,color_category,summary,raw_analysis
+gPhar6Qpkts,http://img.youtube.com/vi/gPhar6Qpkts/maxresdefault.jpg,"#42302b, #d2b590, #86aeca, #4d7dae",#1 LATE NIGHT FOOD TRUCK,"food truck, food container, pickle, nachos",1,happy(The person is smiling widely while holding a tray of food.),303 In The Cut,"Centered, with text overlay and arrow indicating food","Bold and large, yellow font against a dark background",False,Food and dining,"#42302b, #d2b590, #86aeca, #4d7dae",Warm and inviting,"The thumbnail features a smiling person holding food from a food truck, promoting late-night food with engaging text and visuals.","{
+  ""detected_text"": ""#1 LATE NIGHT FOOD TRUCK"",
+  ""objects"": [""food truck"", ""food container"", ""pickle"", ""nachos""],
+  ""people_count"": 1,
+  ""faces"": [
+    {
+      ""emotion"": ""happy"",
+      ""description"": ""The person is smiling widely while holding a tray of food.""
+    }
+  ],
+  ""brand_logos"": [""303 In The Cut""],
+  ""layout"": ""Centered, with text overlay and arrow indicating food"",
+  ""text_style"": ""Bold and large, yellow font against a dark background"",
+  ""cta_detected"": false,
+  ""scene_classification"": ""Food and dining"",
+  ""color_scheme"": ""#42302b, #d2b590, #86aeca, #4d7dae"",
+  ""color_category"": ""Warm and inviting"",
+  ""summary"": ""The thumbnail features a smiling person holding food from a food truck, promoting late-night food with engaging text and visuals.""
+}"
+XySzDtCHn6A,http://img.youtube.com/vi/XySzDtCHn6A/maxresdefault.jpg,,,,,,,,,,,,,Error: 404 Client Error: Not Found for url: http://img.youtube.com/vi/XySzDtCHn6A/maxresdefault.jpg,
